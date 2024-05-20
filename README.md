@@ -21,7 +21,7 @@ This project uses Vite for development. Follow the steps below to set up and run
 1. **Clone the repository to your local machine:**
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/inaveed-git/React-joke.git
    ```
 
 2. **Navigate to the project directory:**
